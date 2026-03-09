@@ -54,7 +54,6 @@
   </channel>
   <channel id="L'Equipe">
     <display-name lang="iv">L'Equipe</display-name>
-    <url>http://www.empty</url>
   </channel>
   <channel id="RMC Découverte">
     <display-name lang="iv">RMC Découverte</display-name>
@@ -298,7 +297,6 @@
   </channel>
   <channel id="Toute l'histoire">
     <display-name lang="iv">Toute L'Histoire</display-name>
-    <url>http://www.empty</url>
   </channel>
   <channel id="Science &amp; Vie TV">
     <display-name lang="iv">Science &amp; Vie TV</display-name>
