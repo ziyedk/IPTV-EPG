@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TF1">
+    <display-name lang="iv">TF1</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="France 2">
+    <display-name lang="iv">France 2</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="France 3">
+    <display-name lang="iv">France 3</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="France 4">
+    <display-name lang="iv">France 4</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="France 5">
+    <display-name lang="iv">France 5</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="iv">M6</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Arte">
+    <display-name lang="iv">Arte</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="W9">
+    <display-name lang="iv">W9</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="TMC">
+    <display-name lang="iv">TMC</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="TFX">
+    <display-name lang="iv">TFX</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="CSTAR">
+    <display-name lang="iv">CSTAR</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="TF1 Séries Films">
+    <display-name lang="iv">TF1 Séries Films</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="6ter">
+    <display-name lang="iv">6ter</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="L'Equipe">
+    <display-name lang="iv">L'Equipe</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="RMC Découverte">
+    <display-name lang="iv">RMC Découverte</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="BFMTV">
+    <display-name lang="iv">BFM TV</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="CNEWS">
+    <display-name lang="iv">CNEWS</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="LCI - La Chaîne Info">
+    <display-name lang="iv">LCI</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Franceinfo">
+    <display-name lang="iv">Franceinfo</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="20 minutes TV">
+    <display-name lang="iv">20 Minutes TV</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="TV5MONDE">
+    <display-name lang="iv">TV5MONDE</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="iv">Euronews</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="iv">France24</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="I24news">
+    <display-name lang="iv">I24 News</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="LCP 100%">
+    <display-name lang="iv">LCP Public Sénat</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="La Chaîne Météo">
+    <display-name lang="iv">La Chaîne Météo</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="BFM Business">
+    <display-name lang="iv">BFM Business</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+">
+    <display-name lang="iv">Canal+</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Cinéma">
+    <display-name lang="iv">Canal+ Cinéma</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Sport">
+    <display-name lang="iv">Canal+ Sport</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Séries">
+    <display-name lang="iv">Canal+ Séries</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Docs">
+    <display-name lang="iv">Canal+ Docs</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Grand Ecran">
+    <display-name lang="iv">Canal+ Grand Ecran</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ KIDS">
+    <display-name lang="iv">Canal+ Kids</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Foot">
+    <display-name lang="iv">Canal+ Foot</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Sport 360">
+    <display-name lang="iv">Canal+ Sport 360</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Premier League">
+    <display-name lang="iv">Canal+ Premier League</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Canal+ Box Office">
+    <display-name lang="iv">Canal+ Box Office</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS 1">
+    <display-name lang="iv">beIN Sports 1</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS 2">
+    <display-name lang="iv">beIN Sports 2</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS 3">
+    <display-name lang="iv">beIN Sports 3</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 4">
+    <display-name lang="iv">beIN Max 4</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 5">
+    <display-name lang="iv">beIN Max 5</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 6">
+    <display-name lang="iv">beIN Max 6</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 7">
+    <display-name lang="iv">beIN Max 7</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 8">
+    <display-name lang="iv">beIN Max 8</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 9">
+    <display-name lang="iv">beIN Max 9</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="beIN SPORTS MAX 10">
+    <display-name lang="iv">beIN Max 10</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="iv">Eurosport 1</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="iv">Eurosport 2</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="RMC Sport 1">
+    <display-name lang="iv">RMC Sport 1</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="RMC Sport 2">
+    <display-name lang="iv">RMC Sport 2</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="RMC Sport Access 1">
+    <display-name lang="iv">RMC Sport Access 1</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="TRACE Sport Stars">
+    <display-name lang="iv">Trace Sport Stars</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Action">
+    <display-name lang="iv">Action</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="TCM Cinéma">
+    <display-name lang="iv">TCM Cinéma</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Ciné+ Frisson">
+    <display-name lang="iv">CINE+ FRISSON</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Ciné+ Emotion">
+    <display-name lang="iv">CINE+ EMOTION</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Ciné+ Famiz">
+    <display-name lang="iv">CINE+ FAMILY</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Ciné+ Classic">
+    <display-name lang="iv">CINE+ CLASSIC</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Polar+">
+    <display-name lang="iv">POLAR+</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Warner TV">
+    <display-name lang="iv">Warner TV</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Warner TV Next">
+    <display-name lang="iv">Warner TV Next</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="AB 1">
+    <display-name lang="iv">AB1</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Comédie+">
+    <display-name lang="iv">COMEDIE+</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="serieclub">
+    <display-name lang="iv">Série Club</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Téva">
+    <display-name lang="iv">Téva</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Paris Première">
+    <display-name lang="iv">Paris Première</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="RTL 9">
+    <display-name lang="iv">RTL9</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="TvBreizh">
+    <display-name lang="iv">TV Breizh</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="iv">MTV France</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Crime District">
+    <display-name lang="iv">Crime District</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="iv">Discovery Channel</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Histoire TV">
+    <display-name lang="iv">Histoire TV</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Toute l'histoire">
+    <display-name lang="iv">Toute L'Histoire</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Science &amp; Vie TV">
+    <display-name lang="iv">Science &amp; Vie TV</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="MyZen.tv">
+    <display-name lang="iv">MyZen Nature</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Planète+">
+    <display-name lang="iv">Planete+</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="M6 Music">
+    <display-name lang="iv">M6 Music</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="MCM">
+    <display-name lang="iv">MCM</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="MCM Top">
+    <display-name lang="iv">MCM Top</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Melody">
+    <display-name lang="iv">Melody</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="NRJ Hits">
+    <display-name lang="iv">NRJ Hits</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="RFM TV">
+    <display-name lang="iv">RFM TV</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="iv">Trace Urban</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Trace Africa">
+    <display-name lang="iv">Trace Africa</display-name>
+    <url>http://www.empty</url>
+  </channel>
+  <channel id="Trace Latina">
+    <display-name lang="iv">Trace Latina</display-name>
+    <url>http://www.empty</url>
+  </channel>
+</tv>
